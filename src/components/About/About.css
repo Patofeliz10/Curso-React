@@ -1,0 +1,24 @@
+.row {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 80px;
+    background-color: rgb(121, 147, 223);
+    max-width: 700px;
+    margin: auto;
+}
+
+.about-container {
+    padding: 20px;
+    background-color: rgb(121, 147, 223);
+    text-align: left;
+    font-size: 24px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p{
+    padding: 20px;
+}
+

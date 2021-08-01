@@ -1,0 +1,39 @@
+h2{
+    padding-top: 15px;
+    margin-top: none;
+}
+
+.contact-container{
+    margin: auto;
+    max-width: 800px;
+}
+
+label{
+    display: none;
+}
+
+form {
+    background-color: rgb(218, 218, 218);;
+    margin: auto;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+textarea{
+    width: 100%;
+    resize: none;
+}
+
+.submit {
+    width: 100px;
+    padding: 30px;
+    background-color: rgb(121, 147, 223);
+    border-radius: 10%;
+
+}
+

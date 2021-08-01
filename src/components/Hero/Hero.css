@@ -1,0 +1,17 @@
+.Hero-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(121, 147, 223);
+    padding: 200px;
+    padding-top: 300px;
+}
+
+.avatar{
+    border-radius: 50%;
+}
+
+.hero-titulo {
+    font-size: 50px;
+}

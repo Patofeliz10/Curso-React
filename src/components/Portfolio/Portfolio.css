@@ -1,0 +1,27 @@
+.Portfolio-container {
+    background-color: rgb(218, 218, 218);
+    text-align: center;
+    padding: 50px;
+}
+
+.titulo {
+    font-size: 35px;
+}
+
+ul {
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    
+}
+
+img {
+    border-radius: 50%;
+}
+
+ul li {
+    padding: 20px;
+}
+
+h3 {
+    padding: 20px;
+}
